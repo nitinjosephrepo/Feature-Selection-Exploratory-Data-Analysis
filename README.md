@@ -12,4 +12,4 @@ We often determine the important features in relation to our target variable aft
 - Variance thresholding: Remove features with too little or too much variation
 - Univariate statistical selection: Use statistical test between features and the target to measure relationship strength.
 
-are important in building intution that makes Exploratory Data Analysis (EDA) more affective in drawing insights so valuable for marketing campaigns and business from data
+The above are important in building intution that makes Exploratory Data Analysis (EDA) more affective in drawing insights which are so valuable for marketing campaigns and business
