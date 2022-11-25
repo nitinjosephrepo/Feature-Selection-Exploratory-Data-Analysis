@@ -1,6 +1,6 @@
 # Feature Selection with Exploratory Data Analysis (EDA)
 
-Effort here is to identify important features in a given dataset in relation to our target variable (e.g conversion, lead, purchase etc0 using multiple types of Correlation methods based on data type.
+Effort here is to identify important features in a given dataset in relation to our target variable (e.g conversion, lead, purchase etc) using multiple types of Correlation methods based on data type. In any given dataset some features are more significant than others, a comprehensive Feature Selection process helps us understands the relationship (Bivariate ) between a feature and our target variale. For eg. whats the relationship of purchase to distance that a shopper lives from a store location. 
 
 Feature selection is important for ML models to avoid 'curse of dimensionality' but for this dataset we will be using it build our intution that benefits our later EDA effort 
 
